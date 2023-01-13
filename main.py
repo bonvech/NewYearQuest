@@ -1,8 +1,12 @@
 # Вам нужно загрузить BeautifulSoup и requests!
 # pip install beautifulsoup4
 # pip install requests
+
 from bs4 import BeautifulSoup
 import requests
+
+
+
 # Начало
 print('Начало игры.')
 print('Вы являетесь дедом морозом. Вам нужно набрать как можно большую скорость для ваших санок')
